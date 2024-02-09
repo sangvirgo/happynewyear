@@ -1,5 +1,5 @@
 const nameGirl = 'Em';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'https://sangnguyenvirgo.github.io/picture/';
 const eventName = 'Happy new year';
 const titleCard = 'Chúc mừng năm mới vợ của anh';
 const contentCard = 'Bằng tận đáy lòng của mình anh chúc em năm mới tràn đầy niềm vui bên anh và gia đình, chúc em luôn đặt được những gì mình muốn, chúc em luôn tươi cười và luôn là người yêu bé bỏng của anh nhé. Năm sau tụi mình càng iu nhau nhiều hơn nữa nhé iu em lắm luôn. Và cảm ơn em vì năm qua đã đến bên cạnh anh luôn bên anh. ANH IU EM lắm luôn.';
